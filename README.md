@@ -3,7 +3,7 @@
 通过zookeeper的动态配置功能 实现 hystrix 动态配置
 
 ### 访问和启动方式
-sprig boot项目， 可以直接通过ide run， 用访问 http://localhost:8080/cache , 查看日志 
+sprig boot项目， 可以直接通过idea run， 用访问 http://localhost:8080/cache , 查看日志 
 
 ### 实现方式
 
